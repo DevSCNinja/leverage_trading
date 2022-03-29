@@ -1,4 +1,4 @@
-# How to test the levaerage trading
+# How to test the leverage trading
 
 npx hardhat test
 
